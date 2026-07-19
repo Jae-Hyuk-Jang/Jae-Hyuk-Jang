@@ -62,6 +62,9 @@ Here are some ideas to get you started:
 
 </div>
 
+**🌱 I’m currently learning**
+- 연합우주(fediverse)와 ActivityPub 프로토콜
+
 
 **🎓 Education**
 
