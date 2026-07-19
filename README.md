@@ -18,23 +18,13 @@ Here are some ideas to get you started:
 <!--[![Gmail](https://img.shields.io/badge/Gmail-lucentejjh%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lucentejjh@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Jae--Hyuk--Jang-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jae-Hyuk-Jang) -->
 
+<!--![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=jaeHyuk's%20GitHub&descAlign=70.&descAlignY=44)-->
 
-### 👋 About Me
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Jae-Hyuk-Jang&show_icons=true&theme=radical"
-    alt="Jae-Hyuk-Jang's GitHub stats"
-  />
-</p>
+## 👋 About Me
 
 <div align="center">
-  
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=jaeHyuk's%20GitHub&descAlign=70.&descAlignY=44)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jae-Hyuk-Jang&show_icons=true&theme=radical)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jae-Hyuk-Jang&show_icons=true&theme=radical)
 
 </div>
 
@@ -78,8 +68,9 @@ Here are some ideas to get you started:
 - **2020.03 ~ 2026.08** : 가천대학교 · 컴퓨터공학부(컴퓨터공학전공)  
   전공 4.3/4.5 · 전체 4.28/4.5
 
-**💼 Experience**
+**💫  Experience**
 
+- 2026.04 ~ 2026.06 · 오픈소스 컨트리뷰션 아카데미 (Yocto Project) 
 - 2025.08 ~ 2026.02 · 네이버 웹·모바일 부스트캠프 10기 멤버십
 - 2026.01 ~ 2026.02 · LG Aimers 8기
 - 2025.07 ~ 2025.08 · 네이버 웹·모바일 부스트캠프 10기 챌린지
