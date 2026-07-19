@@ -21,12 +21,20 @@ Here are some ideas to get you started:
 
 ### 👋 About Me
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Jae-Hyuk-Jang&show_icons=true&theme=radical"
+    alt="Jae-Hyuk-Jang's GitHub stats"
+  />
+</p>
+
 <div align="center">
   
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=jaeHyuk's%20GitHub&descAlign=70.&descAlignY=44)
 
-#![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jae-Hyuk-Jang&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jae-Hyuk-Jang&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jae-Hyuk-Jang&show_icons=true&theme=radical)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jae-Hyuk-Jang&show_icons=true&theme=radical)
 
 </div>
 
