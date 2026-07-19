@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!--![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=jaeHyuk's%20GitHub&descAlign=70.&descAlignY=44)-->
 
 
-## 👋 About Me
+## 👋 About Me!
 
 <div align="center">
 
