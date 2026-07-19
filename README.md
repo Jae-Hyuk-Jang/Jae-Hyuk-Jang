@@ -25,6 +25,9 @@ Here are some ideas to get you started:
   
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=jaeHyuk's%20GitHub&descAlign=70.&descAlignY=44)
 
+#![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jae-Hyuk-Jang&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jae-Hyuk-Jang&show_icons=true&theme=radical)
+
 </div>
 
 - 🌱 배운 것을 공유하고 함께 고치며 성장하는 오픈소스의 방식으로, 사람들에게 필요한 서비스를 만들고 싶습니다.
