@@ -131,6 +131,7 @@ Here are some ideas to get you started:
 
 | 프로젝트명 | 기간 | 기술 스택 | 링크 |
 |---|---|---|---|
+| **VIBR - renewal** | `2026.07 ~ now` | Next.js, React, TypeScript, NestJS, TypeORM, Zustand, MySQL, Redis | [**Repo**](https://github.com/Jae-Hyuk-Jang/web17-boostcamp-vibr) |
 | **VIBR** | `2025.12 - 2026.02` | Next.js, React, TypeScript, NestJS, TypeORM, Zustand, MySQL, Redis | [**Repo**](https://github.com/boostcampwm2025/web17-Busy) · [**Service**](https://vibr.site/) |
 | **RushWash** | `2025.03 - 2025.06` | Python, FastAPI, MySQL, YOLOv8, LabelImg | [**Repo**](https://github.com/Jae-Hyuk-Jang/RushWash) |
 | **Omni Card** | `2025.07 - 2025.09` | Python, PyTorch, PyG, Neo4j, XGBoost | [**Repo**](https://github.com/2025-Gachon-capstone/Omni-GNN/tree/jhyuk) |
