@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 **🌱 I’m currently learning**
 - 연합우주(fediverse)와 ActivityPub 프로토콜
-
+- 🤔 AI 시대에서 문제 정의의 중요성을 체험하는 중
 
 **🎓 Education**
 
