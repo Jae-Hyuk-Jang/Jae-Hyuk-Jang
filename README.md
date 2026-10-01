@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <!--![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=jaeHyuk's%20GitHub&descAlign=70.&descAlignY=44)-->
 
-
+<!--
 ## 👋 About Me!
 
 <div align="center">
@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 - **2025.05** : 춘계학술대회 **우수발표 논문상** _(한국인공지능융합기술학회)_
 - **2021.07** : AI-SW 페스티벌 **우수상** _(가천대학교)_
 
-
+-->
 
 <!--**📫 Contact**
 - Email: **lucentejjh@gmail.com*-->
@@ -132,7 +132,7 @@ Here are some ideas to get you started:
     - 가천대학교 창의적 종합설계 경진대회 설계상 수상
 -->
 
-**🚀 Featured Projects**
+<!--**🚀 Featured Projects**
 
 | 프로젝트명 | 기간 | 기술 스택 | 링크 |
 |---|---|---|---|
@@ -140,4 +140,70 @@ Here are some ideas to get you started:
 | **VIBR** | `2025.12 - now` | Next.js, React, TypeScript, NestJS, TypeORM, Zustand, MySQL, Redis | [**Repo**](https://github.com/boostcampwm2025/web17-Busy) · [**Service**](https://vibr.site/) |
 | **RushWash** | `2025.03 - 2025.06` | Python, FastAPI, MySQL, YOLOv8, LabelImg | [**Repo**](https://github.com/Jae-Hyuk-Jang/RushWash) |
 | **Omni Card** | `2025.07 - 2025.09` | Python, PyTorch, PyG, Neo4j, XGBoost | [**Repo**](https://github.com/2025-Gachon-capstone/Omni-GNN/tree/jhyuk) |
+-->
 
+
+**👋 Hi, I'm Jae-Hyuk Jang.**
+
+**I turn vague problems into testable questions.**
+
+My work spans full-stack web development, machine learning, and open source. When working with AI, I make the scope and constraints explicit, distinguish facts from assumptions, and verify proposed solutions through tests, logs, and measurements. I share what I learn and refine my decisions through experiments and code review, weighing performance, complexity, and reliability.
+
+<!--[Blog](https://devjh-log.tistory.com/) · [DACON](https://dacon.io/myprofile/525249/home)-->
+
+---
+
+**💫 Open source · [Fedify](https://github.com/fedify-dev/fedify)**
+
+An ActivityPub server framework in TypeScript. I contributed lint rules and regression tests, focusing on code-path analysis and behavior that mocks alone do not verify.
+
+Selected merged contributions:
+
+| Area | Contribution | Pull requests |
+|---|---|---|
+| Static analysis | Reworked outbox delivery analysis around the AST and added a rule for delivery promises that are never awaited. | [#1050](https://github.com/fedify-dev/fedify/pull/1050), [#1067](https://github.com/fedify-dev/fedify/pull/1067) |
+| Actor validation | Added `preferredUsername` checks and fixed shared handling of `Tombstone` returns and plural properties. | [#1022](https://github.com/fedify-dev/fedify/pull/1022) |
+| Regression tests | Added test suites for Express/h3 integrations and KV-expiry tests using Miniflare bindings. | [#985](https://github.com/fedify-dev/fedify/pull/985), [#1007](https://github.com/fedify-dev/fedify/pull/1007), [#1021](https://github.com/fedify-dev/fedify/pull/1021) |
+
+For actor validation, I checked that regression tests failed when the fix was reverted and removed tests that passed either way.
+
+---
+
+**🚀 Machine learning projects**
+
+**⚽ [K League Pass End-Point Prediction](https://github.com/Jae-Hyuk-Jang/k-League-ai-contest)**  
+*K League × University of Seoul Open AI Competition · Gold Award (2nd place)*
+
+Predicted the final pass destination from match-event sequences using a BiLSTM, spatial heatmaps, and dense supervision. The repository documents match-grouped validation, consistent decoding during training and inference, and reproducible fold artifacts.
+
+**🍴 [Restaurant Menu Demand Forecasting](https://github.com/Jae-Hyuk-Jang/Restaurant-Menu-Demand-Forecast)**  
+*LG Aimers 7th · Team project · 46th on the private leaderboard*
+
+Forecasted seven days of menu sales from a 28-day history using an ensemble of tree models, an LSTM, and a seasonal baseline. Refactored the notebook into a CLI package, compared outputs on synthetic data, and documented the limits of the offline validation.
+
+---
+
+**🎧 Web development · [VIBR](https://github.com/boostcampwm2025/web17-Busy)**
+
+A social music service built with a four-person team. I worked across the frontend and backend on authentication, search, playback, feed consistency, and event logging, then revisited performance and reliability through reproducible measurements.
+
+---
+
+**🌱 Tools I work with**
+
+**Web**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6F00?style=flat-square)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black)
